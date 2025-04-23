@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on Front End Development<br>👯 I’m looking to collaborate on Back End<br>🤝 I’m looking for help with React JS<br>🌱 I’m currently learning React JS<br>💬 Ask me about<br>⚡ Fun fact
+Hello! I’m Vinay Kumar Reddy, a Computer Science student at VIT Bhopal with a deep interest in web development and software design. Over the years, I've sharpened my front-end skills—HTML, CSS, JavaScript, and more—while exploring backend fundamentals and collaborative coding.
+
+Outside the tech world, you'll find me enjoying cricket or photography. Diverse experiences fuel creativity, which I then bring back into my projects. Thanks for stopping by!
 
 
 ## 🌐 Socials:
