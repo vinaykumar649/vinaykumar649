@@ -1,7 +1,7 @@
 # 💫 About Me:
-Hello! I’m Vinay Kumar Reddy, a Computer Science student at VIT Bhopal with a deep interest in web development and software design. Over the years, I've sharpened my front-end skills—HTML, CSS, JavaScript, and more—while exploring backend fundamentals and collaborative coding.
+Hi, I’m Vinay Kumar Reddy — an AI/ML Engineer passionate about building intelligent systems, multimodal agents, and end-to-end data-driven applications.
 
-Outside the tech world, you'll find me enjoying cricket or photography. Diverse experiences fuel creativity, which I then bring back into my projects. Thanks for stopping by!
+I work extensively with Python, Machine Learning, LLMs, LangGraph, NLP, Flask, SQL, and full-stack development. I enjoy turning real-world problems into working AI prototypes — from NLP-to-SQL query systems to Root Cause Analysis pipelines and LLM-powered agents.
 
 
 ## 🌐 Socials:
